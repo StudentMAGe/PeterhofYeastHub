@@ -1,0 +1,28 @@
+genome sacCer3
+trackDb sacCer3/trackDb.txt
+#defaultPos chrIV:800000-820000
+
+genome 1B_D1606_spades
+trackDb 1B_D1606_contigs/trackDb.txt
+twoBitPath 1B_D1606_contigs/1B_D1606_contigs.2bit
+organism S. cerevisiae 1B-D1606
+defaultPos NODE_76_:33000-55000
+
+genome 1B_D1606_chromosomer
+trackDb 1B_D1606/trackDb.txt
+twoBitPath 1B_D1606/1B_D1606.2bit
+organism S. cerevisiae 1B-D1606
+defaultPos chrIV:800000-820000
+
+genome 15V_P4_spades
+trackDb 15V_contigs/trackDb.txt
+twoBitPath 15V_contigs/15V_contigs.2bit
+organism S. cerevisiae 15V-P4
+defaultPos NODE_112_:1-24867
+
+genome 15V_P4_chromosomer
+trackDb 15V_P4/trackDb.txt
+twoBitPath 15V_P4/15V_P4.2bit
+organism S. cerevisiae 15V-P4
+defaultPos IV:800000-820000
+

@@ -1,0 +1,6 @@
+track 1B_D1606_chromosomer_assembly_liftover
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/1B_D1606/1B_D1606_liftover.bb
+shortLabel liftover
+longLabel liftover
+type bigBed
+visibility full
