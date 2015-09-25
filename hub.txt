@@ -3,3 +3,4 @@ shortLabel Other
 longLabel Peterhof_yeast
 genomesFile genomes.txt
 email p.drozdova@bio.spbu.ru
+descriptionUrl hub_contents.html
