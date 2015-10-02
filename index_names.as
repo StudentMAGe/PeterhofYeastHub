@@ -4,5 +4,5 @@ table peterhof_yeast_as
 string	chrom;	"Contig or chromosome"
 uint	chromStart;	"Start position"
 uint	chromEnd;	"End position"
-string	name;	"Name of gene"
+string	name;	"Gene name"
 )
