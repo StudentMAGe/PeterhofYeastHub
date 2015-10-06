@@ -5,7 +5,7 @@ longLabel MAKER2
 searchIndex name
 type bigBed
 visibility squish
-html ../hub_content.html
+html ../hub_contents.html
 
 track 1B_contigs_renamed
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/1B_contigs/1B.contigs.renamed.bb
@@ -14,4 +14,4 @@ longLabel MAKER2_renamed
 searchIndex name
 type bigBed
 visibility squish
-
+html ../hub_contents.html

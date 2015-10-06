@@ -7,6 +7,7 @@ longLabel Single nucleotide variation in 15V-P4
 description Single nucleotide variation in 15V-P4
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track 1B_D1606
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/1B_D1606.vcf.gz
@@ -17,6 +18,7 @@ longLabel Single nucleotide variation in 1B-D1606
 description Single nucleotide variation in 1B-D1606
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track 222_1B_D1606
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/222.vcf.gz
@@ -27,6 +29,7 @@ longLabel Single nucleotide variation in 222-1B-D1606
 description Single nucleotide variation in 222-1B-D1606
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track 74_D694
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/74_D694.vcf.gz
@@ -37,6 +40,7 @@ longLabel Single nucleotide variation in 74-D694
 description Single nucleotide variation in 74-D694
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track 25_25_2V_P3982
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/25-25_P3982.vcf.gz
@@ -47,6 +51,7 @@ longLabel Single nucleotide variation in 25-25-2V-P3982
 description Single nucleotide variation in 25-25-2V-P3982
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track 6P_33G_D373
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P.vcf.gz
@@ -57,6 +62,7 @@ longLabel Single nucleotide variation in 6P-33G-D373
 description Single nucleotide variation in 6P-33G-D373
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track A1_K5_35B_D924
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/K5.vcf.gz         
@@ -67,6 +73,7 @@ longLabel Single nucleotide variation in A1-K5-35B-D924
 description Single nucleotide variation in A1-K5-35B-D924
 type vcfTabix
 visibility hide
+html ../hub_contents.html
 
 track nm126_A1_K5_35B_D924
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/nm126.vcf.gz
@@ -77,6 +84,7 @@ longLabel Single nucleotide variation in nm126-A1-K5-35B-D924
 description Single nucleotide variation in nm126-A1-K5-35B-D924
 type vcfTabix
 visibility hide
+html ../hub_contents.html
 
 track W15V_P4_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/15V.indels.vcf.gz
@@ -87,6 +95,7 @@ longLabel Indels in 15V-P4
 description Indels in 15V-P4
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track W1B_D1606_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/1B.indels.vcf.gz
@@ -97,6 +106,7 @@ longLabel Indels in 1B-D1606
 description Indels in 1B-D1606
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track W74_D694_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/74.indels.vcf.gz
@@ -107,6 +117,7 @@ longLabel Indels in 74-D694
 description Indels in 74-D694
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
 track W25_25_2V_P3982_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/25b.indels.vcf.gz
@@ -117,4 +128,5 @@ longLabel Indels in 25-25-2V-P3982
 description Indels in 25-25-2V-P3982
 type vcfTabix
 visibility pack
+html ../hub_contents.html
 
