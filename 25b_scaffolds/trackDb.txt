@@ -1,0 +1,14 @@
+track 25b_chromosomer_maker
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/25b_scaffolds/25b.assembled.all.bb
+shortLabel maker output
+longLabel maker output
+type bigBed
+visibility squish
+
+track 25b_chromosomer_maker_renamed
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/25b_scaffolds/25b.assembled.renamed.bb
+shortLabel maker output renamed
+longLabel maker output renamed
+type bigBed
+visibility squish
+

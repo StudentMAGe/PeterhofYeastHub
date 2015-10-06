@@ -1,12 +1,12 @@
 track 15V_P4_chromosomer_maker
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_P4/15V_P4.maker.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_scaffolds/15V.assembled.all.bb
 shortLabel maker output
 longLabel maker output
 type bigBed
 visibility squish
 
 track 15V_P4_chromosomer_maker_renamed
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_P4/15V.maker.renamed.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_scaffolds/15V.assembled.renamed.bb
 shortLabel maker output renamed
 longLabel maker output renamed
 type bigBed

@@ -1,0 +1,14 @@
+track 74_chromosomer_maker
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/74_scaffolds/74.assembled.all.bb
+shortLabel maker output
+longLabel maker output
+type bigBed
+visibility squish
+
+track 74_chromosomer_maker_renamed
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/74_scaffolds/74.assembled.renamed.bb
+shortLabel maker output renamed
+longLabel maker output renamed
+type bigBed
+visibility squish
+

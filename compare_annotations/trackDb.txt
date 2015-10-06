@@ -1,5 +1,5 @@
 track 15V_contigs_liftover
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_liftover.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_liftover.bb
 shortLabel liftover
 longLabel liftover
 type bigBed
@@ -7,42 +7,42 @@ visibility squish
 
 
 track 15V_contigs_liftover_soft
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_liftover_soft.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_liftover_soft.bb
 shortLabel liftover_soft
 longLabel liftover_soft
 type bigBed
 visibility squish
 
 track 15V_contigs_genemark_es
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_gm_es.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_gm_es.bb
 shortLabel gm_es
 longLabel gm_es
 type bigBed
 visibility squish
 
 track 15V_contigs_genemark_es_fungi
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_gm_es_fungi.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_gm_es_fungi.bb
 shortLabel gm_es_fungi
 longLabel gm_es_fungi
 type bigBed
 visibility squish
 
 track 15V_contigs_exonerate_p2g
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_exonerate_p2g.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_exonerate_p2g.bb
 shortLabel exonerate_p2g
 longLabel exonerate_p2g
 type bigBed
 visibility squish
 
 track 15V_contigs_exonerate_e2g
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_exonerate_e2g.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_exonerate_e2g.bb
 shortLabel exonerate_e2g
 longLabel exonerate_e2g
 type bigBed
 visibility squish
 
 track 15V_contigs_genemark_s
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_gm_s.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_gm_s.bb
 shortLabel genemark_s
 longLabel genemark_s
 type bigBed
@@ -50,42 +50,42 @@ visibility squish
 
 
 track 15V_contigs_augustus
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_augustus.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_augustus.bb
 shortLabel augustus
 longLabel augustus
 type bigBed
 visibility squish
 
 track 15V_contigs_snap
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_snap.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_snap.bb
 shortLabel snap
 longLabel snap
 type bigBed
 visibility squish
 
 track 15V_contigs_maker2
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_maker2.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_maker2.bb
 shortLabel MAKER2
 longLabel MAKER2
 type bigBed
 visibility squish
 
 track 15V_contigs_maker
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_maker.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_maker.bb
 shortLabel MAKER2_first_pass
 longLabel MAKER2_first_pass
 type bigBed
 visibility squish
 
 track 15V_contigs_maker2_2
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_maker2_2.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_maker2_2.bb
 shortLabel MAKER2_second_pass_2
 longLabel MAKER2_second_pass_2
 type bigBed
 visibility squish
 
 track 15V_contigs_maker_opt
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V_maker_opt.bb
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/compare_annotations/15V_maker_opt.bb
 shortLabel MAKER2_opt
 longLabel MAKER2_opt
 type bigBed
