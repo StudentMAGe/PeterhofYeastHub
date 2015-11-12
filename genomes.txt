@@ -8,7 +8,7 @@ trackDb 1B_contigs/trackDb.txt
 twoBitPath 1B_contigs/1B.contigs.2bit
 organism S. cerevisiae 1B-D1606
 defaultPos NODE_1_1:33000-55000
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#1B
 
 genome 1B_D1606_chromosomer
 description chromosomer scaffolds Sept 2015
@@ -16,7 +16,7 @@ trackDb 1B_scaffolds/trackDb.txt
 twoBitPath 1B_scaffolds/1B.scaffolds.2bit
 organism S. cerevisiae 1B-D1606
 defaultPos IV:800000-820000
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#1B
 
 genome 15V_P4_spades
 description de_novo_v2.0 Sept 2015
@@ -24,7 +24,7 @@ trackDb 15V_contigs/trackDb.txt
 twoBitPath 15V_contigs/15V.contigs.2bit
 organism S. cerevisiae 15V-P4
 defaultPos NODE_112_223:1-24867
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#15V
 
 genome 15V_P4_chromosomer
 description chromosomer scaffolds Sept 2015
@@ -32,7 +32,7 @@ trackDb 15V_scaffolds/trackDb.txt
 twoBitPath 15V_scaffolds/15V.scaffolds.2bit
 organism S. cerevisiae 15V-P4
 defaultPos IV:800000-820000
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#15V
 
 genome 25_25_2V_P3982_spades
 description de_novo_v2.0 Sept 2015
@@ -40,7 +40,7 @@ trackDb 25b_contigs/trackDb.txt
 twoBitPath 25b_contigs/25b.contigs.2bit
 organism S. cerevisiae 25-25-2V-P3982
 defaultPos NODE_1_1:33000-55000
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#25b
 
 genome 25_25_2V_P3982_chromosomer
 description chromosomer scaffolds Sept 2015
@@ -48,7 +48,7 @@ trackDb 25b_scaffolds/trackDb.txt
 twoBitPath 25b_scaffolds/25b.scaffolds.2bit
 organism S. cerevisiae 25-25-2V-P3982
 defaultPos IV:800000-900000
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#25b
 
 
 genome 15V_P4_test
@@ -57,4 +57,4 @@ trackDb compare_annotations/trackDb.txt
 twoBitPath compare_annotations/15V_contigs.2bit
 organism S. cerevisiae 15V-P4 (test)
 defaultPos NODE_1_:1-20000
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#test

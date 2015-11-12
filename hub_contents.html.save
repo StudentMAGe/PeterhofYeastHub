@@ -8,28 +8,29 @@
 <p>These tracks contain information about single nucleotide variations in several  <em>Saccharomyces cerevisiae</em> strains of the Peterhof genetic collection.
 For each strain, there are two separate tracks, one for substituions (SNV) and the other for short indels. </p>
 
-<a name="15V"> </a>
+htmlPath
 <h3> 15V-P4 (15V_contigs/ and 15V_scaffolds/) </h3>
 
 <p> This part of the hub shows assembly of the 15V-P4 strain, one of the progenitor strains for the whole collection. </p>
 
-<a name="25b"> </a>
 <h3> 25-25-2V-P3982 (25b_contigs/ and 25b_scaffolds/) </h3>
+<a name="25b"> </a>
 
 <p> This part shows assembly of the 25-25-2V-P3982 strain, a Peterhof strain with a long history of laboratory breeding. </p>
 
-<a name="1B"> </a>
 <h3> 1B-D1606 (1B_contigs/ and 1B_scaffolds) </h3>
+<a name="1B"> </a>
 
 <p> This part of the hub features assembly of 1B-D1606, a hybrid strain descending to both Peterhof and S288C-related collections of yeast strains. </p>
 
-<a name="74"> </a>
 <h3> 74-D694 (74_contigs/ and 74_scaffolds/) </h3>
+<a name="74"> </a>
 
 <p> This part shows assembly of 74-D694, another hybrid strain, which has been widely used to study yeast prions. </p>
 
-<a name="test"> </a>
+
 <h3> <i> S. cerevisiae </i>  15V-P4 (test) (compare_annotations/) (ex-15V_contigs/) </h3>
+<a name="test"> </a>
 
 <p> This part of the hub collects (and allows one to compare) sets of annotations derived with different algorithms (listed as track names) as of May 2015. 
 It is based on a slightly different assembly than the "final" 15V-P4 assembly, so contig names may be different.
@@ -52,5 +53,5 @@ less than 3, as well as heterozygous indels,  were filtered out. The resulting f
 
 
 <h2> Contacts </h2>
-If you have questions please contact Polina Drozdova at <a href="mailto:p.drozdova@bio.spbu.ru"> p.drozdova<at>spbu.ru </a>.
+If you have questions please contact Polina Drozdova at <a href="mailto:p.drozdova@bio.spbu.ru"> p.drozdova<at>bio.spbu.ru </a>.
 

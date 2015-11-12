@@ -28,7 +28,7 @@ shortLabel 222_1B_D1606
 longLabel Single nucleotide variation in 222-1B-D1606
 description Single nucleotide variation in 222-1B-D1606
 type vcfTabix
-visibility pack
+visibility hide
 html ../hub_contents.html
 
 track 74_D694
