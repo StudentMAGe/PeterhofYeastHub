@@ -54,7 +54,7 @@ visibility pack
 html ../hub_contents.html
 
 track 6P_33G_D373
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P.vcf.gz
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P-33G_D373.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "6P-33G-D373"
 shortLabel 6P-33G-D373
@@ -129,4 +129,16 @@ description Indels in 25-25-2V-P3982
 type vcfTabix
 visibility pack
 html ../hub_contents.html
+
+track W6P_33G_D373_indels
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/6P.indels.vcf.gz
+#Note: there is a corresponding vcf.gz.tbi
+name "6P-33G-D373, indels only"
+shortLabel 6P_33G_D373_indels
+longLabel Indels in 6P-33G-D373
+description Indels in 6P-33G-D373
+type vcfTabix
+visibility pack
+html ../hub_contents.html
+
 
