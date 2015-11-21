@@ -50,6 +50,21 @@ organism S. cerevisiae 25-25-2V-P3982
 defaultPos IV:800000-900000
 htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#25b
 
+genome 74_D964_spades
+trackDb 74_contigs/trackDb.txt
+twoBitPath 74_contigs/74.contigs.2bit
+organism S. cerevisiae 74-D694
+defaultPos NODE_1_1:33000-55000
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#25b
+
+genome 74_chromosomer
+description chromosomer scaffolds Sept 2015
+trackDb 74_scaffolds/trackDb.txt
+twoBitPath 74_scaffolds/74.scaffolds.2bit
+organism S. cerevisiae 74-D694
+defaultPos IV:800000-900000
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#74
+
 
 genome 15V_P4_test
 description de_novo_v1.0 Nov 2014
