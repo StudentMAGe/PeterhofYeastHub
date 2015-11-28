@@ -142,3 +142,47 @@ visibility pack
 html ../hub_contents.html
 
 
+track D273-10B
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/D273.vcf.gz
+#Note: there is a corresponding vcf.gz.tbi
+name "D273-10B"
+shortLabel D273-10B
+longLabel Single nucleotide variation in D273-10B
+description Single nucleotide variation in D273-10B
+type vcfTabix
+visibility hide
+html ../hub_contents.html
+
+track WD273-10B_indels
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/D273.indels.vcf.gz
+#Note: there is a corresponding vcf.gz.tbi
+name "D273-10B, indels only"
+shortLabel indels_D273-10B
+longLabel Indels in D273-10B
+description Indels in D273-10B
+type vcfTabix
+visibility hide
+html ../hub_contents.html
+
+track YPH499
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/YPH499.vcf.gz
+#Note: there is a corresponding vcf.gz.tbi
+name "YPH499"
+shortLabel YPH499
+longLabel Single nucleotide variation in YPH499
+description Single nucleotide variation in YPH499
+type vcfTabix
+visibility hide
+html ../hub_contents.html
+
+track WYPH499_indels
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/YPH499.indels.vcf.gz
+#Note: there is a corresponding vcf.gz.tbi
+name "YPH499, indels only"
+shortLabel indels_YPH499
+longLabel Indels in YPH499
+description Indels in YPH499
+type vcfTabix
+visibility hide
+html ../hub_contents.html
+
