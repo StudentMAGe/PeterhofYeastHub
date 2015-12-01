@@ -186,3 +186,85 @@ type vcfTabix
 visibility hide
 html ../hub_contents.html
 
+track 15V-P4_deleted_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/15V.del.bb
+shortLabel 15V deletions
+longLabel Regions deleted in 15V-P4
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 15V-P4_amplified_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/15V.ampl.bb
+shortLabel 15V amplified
+longLabel Regions amplified in 15V-P4
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 25-25-2V-P3982_deleted_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/25b.del.bb
+shortLabel 25-25 deleted
+longLabel Regions deleted in 25-25-2V-P3982
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 25-25-2V-P3982_amplified_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/25b.ampl.bb
+shortLabel 25-25 amplified
+longLabel Regions amplified in 25-25-2V-P3982
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 1B-D1606_deleted_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/1B.del.bb
+shortLabel 1B deleted
+longLabel Regions deleted in 1B-D1606
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 1B-D1606_amplified_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/1B.ampl.bb
+shortLabel 1B amplified
+longLabel Regions amplified in 1B-D1606
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+
+track 74-D694_deleted_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/74.del.bb
+shortLabel 74 deleted
+longLabel Regions deleted in 74-D694
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 74-D694_amplified_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/74.ampl.bb
+shortLabel 74 amplified
+longLabel Regions amplified in 74-D694
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+
+track 6P-33G-D373_deleted_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P.del.bb
+shortLabel 6P-33G deleted
+longLabel Regions deleted in 6P-33G-D373
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 6P-33G-D373_amplified_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P.ampl.bb
+shortLabel 6P-33G amplified
+longLabel Regions amplified in 6P-33G-D373
+type bigBed
+visibility squish
+html ../hub_contents.html
+
