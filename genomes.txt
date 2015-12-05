@@ -73,3 +73,20 @@ twoBitPath compare_annotations/15V_contigs.2bit
 organism S. cerevisiae 15V-P4 (test)
 defaultPos NODE_1_:1-20000
 htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#test
+
+genome 6P_33G_D373_spades
+description de_novo_v2.0 Nov 2015
+trackDb 6P_contigs/trackDb.txt
+twoBitPath 6P_contigs/6P.contigs.2bit
+organism S. cerevisiae 6P-33G-D373
+defaultPos NODE_1_1:13000-23000
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+
+genome 6P_33G_D373_chromosomer
+description chromosomer scaffolds Dec 2015
+trackDb 6P_scaffolds/trackDb.txt
+twoBitPath 6P_scaffolds/6P.scaffolds.2bit
+organism S. cerevisiae 6P-33G-D373
+defaultPos IV:800000-900000
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html
+

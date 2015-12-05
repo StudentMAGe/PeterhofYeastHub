@@ -1,0 +1,18 @@
+track 6P_contigs_maker
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/6P_contigs/6P.contigs.all.bb
+shortLabel MAKER2
+longLabel MAKER2
+searchIndex name
+type bigBed
+visibility squish
+html ../hub_contents.html
+
+track 6P_contigs_renamed
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/6P_contigs/6P.contigs.renamed.bb
+shortLabel MAKER2_renamed
+longLabel MAKER2_renamed
+searchIndex name
+type bigBed
+visibility squish
+
+
