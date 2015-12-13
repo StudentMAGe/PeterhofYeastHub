@@ -7,7 +7,7 @@ longLabel Single nucleotide variation in 15V-P4
 description Single nucleotide variation in 15V-P4
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./SNV_description.html
 
 track 1B_D1606
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/1B_D1606.vcf.gz
@@ -18,7 +18,7 @@ longLabel Single nucleotide variation in 1B-D1606
 description Single nucleotide variation in 1B-D1606
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./SNV_description.html
 
 track 222_1B_D1606
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/222.vcf.gz
@@ -29,7 +29,7 @@ longLabel Single nucleotide variation in 222-1B-D1606
 description Single nucleotide variation in 222-1B-D1606
 type vcfTabix
 visibility hide
-html ../hub_contents.html
+html ./SNV_description.html
 
 track 74_D694
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/74_D694.vcf.gz
@@ -40,7 +40,7 @@ longLabel Single nucleotide variation in 74-D694
 description Single nucleotide variation in 74-D694
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./SNV_description.html
 
 track 25_25_2V_P3982
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/25-25_P3982.vcf.gz
@@ -51,7 +51,7 @@ longLabel Single nucleotide variation in 25-25-2V-P3982
 description Single nucleotide variation in 25-25-2V-P3982
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./SNV_description.html
 
 track 6P_33G_D373
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P-33G_D373.vcf.gz
@@ -62,7 +62,7 @@ longLabel Single nucleotide variation in 6P-33G-D373
 description Single nucleotide variation in 6P-33G-D373
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./SNV_description.html
 
 track A1_K5_35B_D924
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/K5.vcf.gz         
@@ -73,7 +73,7 @@ longLabel Single nucleotide variation in A1-K5-35B-D924
 description Single nucleotide variation in A1-K5-35B-D924
 type vcfTabix
 visibility hide
-html ../hub_contents.html
+html ./SNV_description.html
 
 track nm126_A1_K5_35B_D924
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/nm126.vcf.gz
@@ -84,7 +84,7 @@ longLabel Single nucleotide variation in nm126-A1-K5-35B-D924
 description Single nucleotide variation in nm126-A1-K5-35B-D924
 type vcfTabix
 visibility hide
-html ../hub_contents.html
+html ./SNV_description.html
 
 track W15V_P4_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/15V.indels.vcf.gz
@@ -95,7 +95,7 @@ longLabel Indels in 15V-P4
 description Indels in 15V-P4
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./indel_description.html
 
 track W1B_D1606_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/1B.indels.vcf.gz
@@ -106,7 +106,7 @@ longLabel Indels in 1B-D1606
 description Indels in 1B-D1606
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./indel_description.html
 
 track W74_D694_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/74.indels.vcf.gz
@@ -117,7 +117,7 @@ longLabel Indels in 74-D694
 description Indels in 74-D694
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./indel_description.html
 
 track W25_25_2V_P3982_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/25b.indels.vcf.gz
@@ -128,7 +128,7 @@ longLabel Indels in 25-25-2V-P3982
 description Indels in 25-25-2V-P3982
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./indel_description.html
 
 track W6P_33G_D373_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/6P.indels.vcf.gz
@@ -139,7 +139,7 @@ longLabel Indels in 6P-33G-D373
 description Indels in 6P-33G-D373
 type vcfTabix
 visibility pack
-html ../hub_contents.html
+html ./indel_description.html
 
 
 track D273-10B
@@ -151,7 +151,7 @@ longLabel Single nucleotide variation in D273-10B
 description Single nucleotide variation in D273-10B
 type vcfTabix
 visibility hide
-html ../hub_contents.html
+html ./SNV_description.html
 
 track WD273-10B_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/D273.indels.vcf.gz
@@ -162,7 +162,7 @@ longLabel Indels in D273-10B
 description Indels in D273-10B
 type vcfTabix
 visibility hide
-html ../hub_contents.html
+html ./indel_description.html
 
 track YPH499
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/YPH499.vcf.gz
@@ -173,7 +173,7 @@ longLabel Single nucleotide variation in YPH499
 description Single nucleotide variation in YPH499
 type vcfTabix
 visibility hide
-html ../hub_contents.html
+html ./SNV_description.html
 
 track WYPH499_indels
 bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/YPH499.indels.vcf.gz
@@ -184,7 +184,7 @@ longLabel Indels in YPH499
 description Indels in YPH499
 type vcfTabix
 visibility hide
-html ../hub_contents.html
+html ./indel_description.html
 
 track 15V-P4_deleted_regions
 color 0,128,0
@@ -193,7 +193,7 @@ shortLabel 15V deletions
 longLabel Regions deleted in 15V-P4
 type bigBed
 visibility squish
-html ../hub_contents.html
+html ./cnv_description.html
 
 track 15V-P4_amplified_regions
 color 128,0,0
@@ -202,7 +202,7 @@ shortLabel 15V amplified
 longLabel Regions amplified in 15V-P4
 type bigBed
 visibility squish
-html ../hub_contents.html
+html ./cnv_description.html
 
 track 25-25-2V-P3982_deleted_regions
 color 0,128,0
@@ -211,7 +211,7 @@ shortLabel 25-25 deleted
 longLabel Regions deleted in 25-25-2V-P3982
 type bigBed
 visibility squish
-html ../hub_contents.html
+html ./cnv_description.html
 
 track 25-25-2V-P3982_amplified_regions
 color 128,0,0
@@ -220,7 +220,7 @@ shortLabel 25-25 amplified
 longLabel Regions amplified in 25-25-2V-P3982
 type bigBed
 visibility squish
-html ../hub_contents.html
+html ./cnv_description.html
 
 track 1B-D1606_deleted_regions
 color 0,128,0
@@ -229,7 +229,7 @@ shortLabel 1B deleted
 longLabel Regions deleted in 1B-D1606
 type bigBed
 visibility squish
-html ../hub_contents.html
+html ./cnv_description.html
 
 track 1B-D1606_amplified_regions
 color 128,0,0
@@ -238,8 +238,7 @@ shortLabel 1B amplified
 longLabel Regions amplified in 1B-D1606
 type bigBed
 visibility squish
-html ../hub_contents.html
-
+html ./cnv_description.html
 
 track 74-D694_deleted_regions
 color 0,128,0
@@ -248,7 +247,7 @@ shortLabel 74 deleted
 longLabel Regions deleted in 74-D694
 type bigBed
 visibility squish
-html ../hub_contents.html
+html ./cnv_description.html
 
 track 74-D694_amplified_regions
 color 128,0,0
@@ -257,8 +256,7 @@ shortLabel 74 amplified
 longLabel Regions amplified in 74-D694
 type bigBed
 visibility squish
-html ../hub_contents.html
-
+html ./cnv_description.html
 
 track 6P-33G-D373_deleted_regions
 color 0,128,0
@@ -267,7 +265,7 @@ shortLabel 6P-33G deleted
 longLabel Regions deleted in 6P-33G-D373
 type bigBed
 visibility squish
-html ../hub_contents.html
+html ./cnv_description.html
 
 track 6P-33G-D373_amplified_regions
 color 128,0,0
@@ -276,5 +274,4 @@ shortLabel 6P-33G amplified
 longLabel Regions amplified in 6P-33G-D373
 type bigBed
 visibility squish
-html ../hub_contents.html
-
+html ./cnv_description.html

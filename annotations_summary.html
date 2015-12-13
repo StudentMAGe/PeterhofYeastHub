@@ -1,0 +1,15 @@
+<h2>Description</h2>
+<p>These tracks feature annotations of genes on each contig or pseudochromosome. </p>
+For more information on assemblies please see <a href=http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html> the description page</a>.
+
+
+<h2>Methods</h2>
+<p>
+Initial sets of annotations (labeled 'MAKER2') were united using the MAKER2 pipeline v2.31.8 [Mark and Yandell <i>et al.</i>, 2011]. </p>
+<p>
+To restore strandard gene names, genes found with this pipeline were divided into novel and known ones with an in-house python script available at <a href=https://github.com/drozdovapb/myBedGtfGffVcfTools/blob/master/rename_gff_by_table.py> github</a>. This script employs a renaming table produced with proteinortho [Lechner <i>et al.</i>, 2011] by clustering the whole sets of ORFs from the reference strain (S288C) and the strain analyzed. Tracks with renamed genes are labeled 'MAKER 2 renamed'.</p>
+<p>Please note that standart yeast ORF names (<i>e.g.</i> YBR043C) are indexed and can be used for searching. </p>
+
+<h2> References </h2>
+<p> Holt C, Yandell M. MAKER2: an annotation pipeline and genome-database management tool for second-generation genome projects. BMC Bioinformatics [Internet]. 2011 Jan [cited 2015 Mar 9];12(1):491. Available from: <a href=http://www.biomedcentral.com/1471-2105/12/491> http://www.biomedcentral.com/1471-2105/12/491 </a> </p>
+<p> Lechner M, Findeiss S, Steiner L, Marz M, Stadler PF, Prohaska SJ. Proteinortho: detection of (co-)orthologs in large-scale analysis. BMC Bioinformatics [Internet]. BioMed Central Ltd; 2011 Jan 28 [cited 2015 Nov 12];12(1):124. Available from: <a href=http://www.biomedcentral.com/1471-2105/12/124> http://www.biomedcentral.com/1471-2105/12/124 </a> </p>
