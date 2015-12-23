@@ -51,11 +51,12 @@ defaultPos IV:800000-900000
 htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#25b
 
 genome 74_D964_spades
+description de novo Sept 2015
 trackDb 74_contigs/trackDb.txt
 twoBitPath 74_contigs/74.contigs.2bit
 organism S. cerevisiae 74-D694
-defaultPos NODE_1_1:33000-55000
-htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#25b
+defaultPos NODE_1_104267:33000-55000
+htmlPath http://public.dobzhanskycenter.ru/PeterhofYeastHub/hub_contents.html#74
 
 genome 74_chromosomer
 description chromosomer scaffolds Sept 2015
