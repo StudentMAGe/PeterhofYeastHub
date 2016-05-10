@@ -275,3 +275,21 @@ longLabel Regions amplified in 6P-33G-D373
 type bigBed
 visibility squish
 html ./cnv_description.html
+
+track 222-1B-D1606_deleted_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/222.del.bb
+shortLabel 222 deletions
+longLabel Regions deleted in 222-1B-D1606
+type bigBed
+visibility hide
+html ../hub_contents.html
+
+track 222-1B-D1606_amplified_regions
+bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/222.ampl.bb
+shortLabel 222 amplified
+longLabel Regions amplified in 222-1B-D1606
+type bigBed
+visibility hide
+html ../hub_contents.html
+
+
