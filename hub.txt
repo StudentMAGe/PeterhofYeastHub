@@ -2,5 +2,5 @@ hub Peterhof_Saccharomyces_cerevisiae_SNP
 shortLabel Peterhof_yeasts
 longLabel Peterhof_yeast
 genomesFile genomes.txt
-email p.drozdova@spbu.ru
+email drozdovapb@bio.isu.ru
 descriptionUrl hub_contents.html
