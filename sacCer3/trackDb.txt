@@ -1,5 +1,5 @@
 track 15V_P4
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/15V_P4.vcf.gz
+bigDataUrl ./15V_P4.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "15V-P4"
 shortLabel 15V_P4
@@ -10,7 +10,7 @@ visibility pack
 html ./SNV_description.html
 
 track 1B_D1606
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/1B_D1606.vcf.gz
+bigDataUrl ./1B_D1606.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "1B-D1606"
 shortLabel 1B_D1606
@@ -21,7 +21,7 @@ visibility pack
 html ./SNV_description.html
 
 track 222_1B_D1606
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/222.vcf.gz
+bigDataUrl ./222.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "222_1B-D1606"
 shortLabel 222_1B_D1606
@@ -32,7 +32,7 @@ visibility hide
 html ./SNV_description.html
 
 track 74_D694
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/74_D694.vcf.gz
+bigDataUrl ./74_D694.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "74-D694"
 shortLabel 74_D694
@@ -43,7 +43,7 @@ visibility pack
 html ./SNV_description.html
 
 track 25_25_2V_P3982
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/25-25_P3982.vcf.gz
+bigDataUrl ./25-25_P3982.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "25-25-2V-P3982"
 shortLabel 25_25_P3982
@@ -54,7 +54,7 @@ visibility pack
 html ./SNV_description.html
 
 track 6P_33G_D373
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P-33G_D373.vcf.gz
+bigDataUrl ./6P-33G_D373.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "6P-33G-D373"
 shortLabel 6P-33G-D373
@@ -65,7 +65,7 @@ visibility pack
 html ./SNV_description.html
 
 track A1_K5_35B_D924
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/K5.vcf.gz         
+bigDataUrl ./K5.vcf.gz         
 #Note: there is a corresponding vcf.gz.tbi
 name "A1-K5-35B-D924"
 shortLabel A1-K5-35B-D924
@@ -76,7 +76,7 @@ visibility hide
 html ./SNV_description.html
 
 track nm126_A1_K5_35B_D924
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/nm126.vcf.gz
+bigDataUrl ./nm126.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "nm126-A1-K5-35B-D924"
 shortLabel nm126-A1-K5-35B-D924
@@ -87,7 +87,7 @@ visibility hide
 html ./SNV_description.html
 
 track W15V_P4_indels
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/15V.indels.vcf.gz
+bigDataUrl ./indels/15V.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "15V-P4, indels only"
 shortLabel 15V-P4_indels
@@ -98,7 +98,7 @@ visibility pack
 html ./indel_description.html
 
 track W1B_D1606_indels
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/1B.indels.vcf.gz
+bigDataUrl ./indels/1B.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "1B-D1606, indels only"
 shortLabel 1B-D1606-indels
@@ -109,7 +109,7 @@ visibility pack
 html ./indel_description.html
 
 track W74_D694_indels
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/74.indels.vcf.gz
+bigDataUrl ./indels/74.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "74-D694, indels only"
 shortLabel 74-D694-indels
@@ -120,7 +120,7 @@ visibility pack
 html ./indel_description.html
 
 track W25_25_2V_P3982_indels
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/25b.indels.vcf.gz
+bigDataUrl ./indels/25-25_P3982.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "25-25-2V-P3982, indels only"
 shortLabel 25_25_P3982_indels
@@ -131,7 +131,7 @@ visibility pack
 html ./indel_description.html
 
 track W6P_33G_D373_indels
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/6P.indels.vcf.gz
+bigDataUrl ./indels/6P.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "6P-33G-D373, indels only"
 shortLabel 6P_33G_D373_indels
@@ -143,7 +143,7 @@ html ./indel_description.html
 
 
 track D273-10B
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/D273.vcf.gz
+bigDataUrl ./D273.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "D273-10B"
 shortLabel D273-10B
@@ -154,7 +154,7 @@ visibility hide
 html ./SNV_description.html
 
 track WD273-10B_indels
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/D273.indels.vcf.gz
+bigDataUrl ./indels/D273.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "D273-10B, indels only"
 shortLabel indels_D273-10B
@@ -165,7 +165,7 @@ visibility hide
 html ./indel_description.html
 
 track YPH499
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/YPH499.vcf.gz
+bigDataUrl YPH499.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "YPH499"
 shortLabel YPH499
@@ -176,7 +176,7 @@ visibility hide
 html ./SNV_description.html
 
 track WYPH499_indels
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/indels/YPH499.indels.vcf.gz
+bigDataUrl YPH499.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "YPH499, indels only"
 shortLabel indels_YPH499
@@ -188,7 +188,7 @@ html ./indel_description.html
 
 track 15V-P4_deleted_regions
 color 0,128,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/15V.del.bb
+bigDataUrl 15V.del.bb
 shortLabel 15V deletions
 longLabel Regions deleted in 15V-P4
 type bigBed
@@ -197,7 +197,7 @@ html ./cnv_description.html
 
 track 15V-P4_amplified_regions
 color 128,0,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/15V.ampl.bb
+bigDataUrl 15V.ampl.bb
 shortLabel 15V amplified
 longLabel Regions amplified in 15V-P4
 type bigBed
@@ -206,7 +206,7 @@ html ./cnv_description.html
 
 track 25-25-2V-P3982_deleted_regions
 color 0,128,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/25b.del.bb
+bigDataUrl 25b.del.bb
 shortLabel 25-25 deleted
 longLabel Regions deleted in 25-25-2V-P3982
 type bigBed
@@ -215,7 +215,7 @@ html ./cnv_description.html
 
 track 25-25-2V-P3982_amplified_regions
 color 128,0,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/25b.ampl.bb
+bigDataUrl 25b.ampl.bb
 shortLabel 25-25 amplified
 longLabel Regions amplified in 25-25-2V-P3982
 type bigBed
@@ -224,7 +224,7 @@ html ./cnv_description.html
 
 track 1B-D1606_deleted_regions
 color 0,128,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/1B.del.bb
+bigDataUrl 1B.del.bb
 shortLabel 1B deleted
 longLabel Regions deleted in 1B-D1606
 type bigBed
@@ -233,7 +233,7 @@ html ./cnv_description.html
 
 track 1B-D1606_amplified_regions
 color 128,0,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/1B.ampl.bb
+bigDataUrl 1B.ampl.bb
 shortLabel 1B amplified
 longLabel Regions amplified in 1B-D1606
 type bigBed
@@ -242,7 +242,7 @@ html ./cnv_description.html
 
 track 74-D694_deleted_regions
 color 0,128,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/74.del.bb
+bigDataUrl 74.del.bb
 shortLabel 74 deleted
 longLabel Regions deleted in 74-D694
 type bigBed
@@ -251,7 +251,7 @@ html ./cnv_description.html
 
 track 74-D694_amplified_regions
 color 128,0,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/74.ampl.bb
+bigDataUrl 74.ampl.bb
 shortLabel 74 amplified
 longLabel Regions amplified in 74-D694
 type bigBed
@@ -260,7 +260,7 @@ html ./cnv_description.html
 
 track 6P-33G-D373_deleted_regions
 color 0,128,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P.del.bb
+bigDataUrl 6P.del.bb
 shortLabel 6P-33G deleted
 longLabel Regions deleted in 6P-33G-D373
 type bigBed
@@ -269,7 +269,7 @@ html ./cnv_description.html
 
 track 6P-33G-D373_amplified_regions
 color 128,0,0
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/6P.ampl.bb
+bigDataUrl 6P.ampl.bb
 shortLabel 6P-33G amplified
 longLabel Regions amplified in 6P-33G-D373
 type bigBed
@@ -277,7 +277,7 @@ visibility squish
 html ./cnv_description.html
 
 track 222-1B-D1606_deleted_regions
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/222.del.bb
+bigDataUrl ./222.del.bb
 shortLabel 222 deletions
 longLabel Regions deleted in 222-1B-D1606
 type bigBed
@@ -285,7 +285,7 @@ visibility hide
 html ../hub_contents.html
 
 track 222-1B-D1606_amplified_regions
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/sacCer3/222.ampl.bb
+bigDataUrl ./222.ampl.bb
 shortLabel 222 amplified
 longLabel Regions amplified in 222-1B-D1606
 type bigBed
