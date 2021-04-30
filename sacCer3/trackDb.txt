@@ -120,7 +120,7 @@ visibility pack
 html ./indel_description.html
 
 track W25_25_2V_P3982_indels
-bigDataUrl ./indels/25-25b.indels.vcf.gz
+bigDataUrl ./indels/25b.indels.vcf.gz
 #Note: there is a corresponding vcf.gz.tbi
 name "25-25-2V-P3982, indels only"
 shortLabel 25_25_P3982_indels
