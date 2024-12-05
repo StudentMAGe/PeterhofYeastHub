@@ -1,5 +1,5 @@
 track 15V_contigs_maker
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V.contigs.all.bb
+bigDataUrl 15V.contigs.all.bb
 shortLabel MAKER2
 longLabel MAKER2
 searchIndex name
@@ -8,7 +8,7 @@ visibility squish
 html ../annotations_summary.html
 
 track 15V_contigs_renamed
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/15V_contigs/15V.contigs.renamed.bb
+bigDataUrl 15V.contigs.renamed.bb
 shortLabel MAKER2_renamed
 longLabel MAKER2_renamed
 searchIndex name

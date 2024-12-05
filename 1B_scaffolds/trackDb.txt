@@ -1,5 +1,5 @@
 track 1B_chromosomer_maker
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/1B_scaffolds/1B.assembled.all.bb
+bigDataUrl 1B.assembled.all.bb
 shortLabel maker output
 longLabel maker output
 type bigBed
@@ -7,7 +7,7 @@ visibility squish
 html ../hub_contents.html
 
 track 1B_chromosomer_maker_renamed
-bigDataUrl http://public.dobzhanskycenter.ru/PeterhofYeastHub/1B_scaffolds/1B.assembled.renamed.bb
+bigDataUrl 1B.assembled.renamed.bb
 shortLabel maker output renamed
 longLabel maker output renamed
 type bigBed
